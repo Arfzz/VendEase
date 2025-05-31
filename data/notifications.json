@@ -1,0 +1,110 @@
+[
+    {
+        "type": "low_stock",
+        "product_id": "1",
+        "product_name": "Ayam Mineral",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 19:55:19"
+    },
+    {
+        "type": "low_stock",
+        "product_id": 2,
+        "product_name": "Teh Botol",
+        "current_stock": 4,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 19:55:19"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "5",
+        "product_name": "Mie Ayam",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 19:55:19"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "1",
+        "product_name": "Ayam Mineral",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 19:56:04"
+    },
+    {
+        "type": "low_stock",
+        "product_id": 2,
+        "product_name": "Teh Botol",
+        "current_stock": 4,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 19:56:04"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "5",
+        "product_name": "Mie Ayam",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 19:56:04"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "1",
+        "product_name": "Ayam Mineral",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 20:13:33"
+    },
+    {
+        "type": "low_stock",
+        "product_id": 2,
+        "product_name": "Teh Botol",
+        "current_stock": 4,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 20:13:33"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "5",
+        "product_name": "Mie Ayam",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 20:13:33"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "1",
+        "product_name": "Ayam Mineral",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 20:13:56"
+    },
+    {
+        "type": "low_stock",
+        "product_id": 2,
+        "product_name": "Teh Botol",
+        "current_stock": 4,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 20:13:56"
+    },
+    {
+        "type": "low_stock",
+        "product_id": "5",
+        "product_name": "Mie Ayam",
+        "current_stock": 5,
+        "threshold": 5,
+        "read": true,
+        "timestamp": "2025-05-11 20:13:56"
+    }
+]

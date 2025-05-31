@@ -1,0 +1,202 @@
+[2025-05-10T16:30:06.840745] Admin admin login.
+[2025-05-10T16:30:06.840745] Admin admin menambah produk Teh Pucuk.
+[2025-05-10T16:30:06.840745] User membeli 2 x Air Mineral.
+[2025-05-10T16:30:06.840745] Teknisi teknisi login.
+[2025-05-10 17:13:51] Failed login attempt for username: admin
+[2025-05-10 17:14:15] Failed login attempt for username: technician
+[2025-05-10 17:26:35] Failed login attempt for username: admin
+[2025-05-10 17:26:45] Failed login attempt for username: admin1
+[2025-05-10 17:30:25] Failed login attempt for username: teknisi
+[2025-05-10 17:30:47] User admin logged in as admin
+[2025-05-10 21:31:26] Failed login attempt for username: admin
+[2025-05-10 21:31:36] User admin logged in as admin
+[2025-05-10 21:32:57] Admin menambahkan produk Ayam goreng (ID: 4) dengan harga Rp12000 dan stok 20
+[2025-05-10 21:33:48] User teknisi logged in as technician
+[2025-05-10 21:33:56] Teknisi memeriksa status sistem
+[2025-05-10 21:34:09] Teknisi menambah stok Air Mineral sebanyak 10 unit (total: 30)
+[2025-05-10 21:34:22] User superadmin logged in as superadmin
+[2025-05-10 21:34:58] Super Admin mengakses laporan transaksi lengkap
+[2025-05-10 23:06:31] New user registered: 'Arief 1'
+[2025-05-10 23:06:40] User Arief 1 logged in as user
+[2025-05-10 23:06:40] User 'Arief 1' logged in as user
+[2025-05-10 23:09:28] User Arief 1 logged in as user
+[2025-05-10 23:09:28] User 'Arief 1' logged in as user
+[2025-05-10 23:10:00] Failed login attempt for username: admin
+[2025-05-10 23:10:00] Failed login attempt with username 'admin'
+[2025-05-10 23:10:06] User admin logged in as admin
+[2025-05-10 23:10:06] User 'admin' logged in as admin
+[2025-05-10 23:19:02] User Arief 1 logged in as user
+[2025-05-10 23:19:02] User 'Arief 1' logged in as user
+[2025-05-10 23:22:03] Failed login attempt for username: Arief
+[2025-05-10 23:22:03] Failed login attempt with username 'Arief'
+[2025-05-10 23:22:14] User Arief 1 logged in as user
+[2025-05-10 23:22:14] User 'Arief 1' logged in as user
+[2025-05-10 23:22:24] User Arief 1 membeli 10 Air Mineral
+[2025-05-10 23:26:29] New user registered: 'Arief 2'
+[2025-05-10 23:26:43] User teknisi logged in as technician
+[2025-05-10 23:26:43] User 'teknisi' logged in as technician
+[2025-05-10 23:26:55] Teknisi memeriksa status sistem
+[2025-05-10 23:27:08] User admin logged in as admin
+[2025-05-10 23:27:08] User 'admin' logged in as admin
+[2025-05-10 23:28:01] User admin logged in as admin
+[2025-05-10 23:28:01] User 'admin' logged in as admin
+[2025-05-10 23:28:15] Admin menambahkan produk Mie Ayam (ID: 5) dengan harga Rp10000 dan stok 20
+[2025-05-10 23:28:26] Failed login attempt for username: Arief
+[2025-05-10 23:28:26] Failed login attempt with username 'Arief'
+[2025-05-10 23:28:32] User admin logged in as admin
+[2025-05-10 23:28:32] User 'admin' logged in as admin
+[2025-05-10 23:28:57] User admin logged in as admin
+[2025-05-10 23:28:57] User 'admin' logged in as admin
+[2025-05-10 23:29:30] Failed login attempt for username: superadmin
+[2025-05-10 23:29:30] Failed login attempt with username 'superadmin'
+[2025-05-10 23:29:40] User superadmin logged in as superadmin
+[2025-05-10 23:29:40] User 'superadmin' logged in as superadmin
+[2025-05-10 23:29:41] Super Admin mengakses laporan transaksi lengkap
+[2025-05-10 23:30:51] Super Admin menambahkan pengguna 'admin2' dengan role admin
+[2025-05-10 23:31:09] Super Admin mengedit pengguna dari 'admin2' menjadi 'admin3' dengan role admin
+[2025-05-10 23:31:18] Super Admin menghapus pengguna 'admin3' dengan role admin
+[2025-05-10 23:31:57] User teknisi logged in as technician
+[2025-05-10 23:31:57] User 'teknisi' logged in as technician
+[2025-05-10 23:32:11] Teknisi memeriksa status sistem
+[2025-05-11 16:23:05] Failed login attempt for username: Arief1
+[2025-05-11 16:23:05] Failed login attempt with username 'Arief1'
+[2025-05-11 16:23:17] Failed login attempt for username: arief1
+[2025-05-11 16:23:17] Failed login attempt with username 'arief1'
+[2025-05-11 16:23:33] User Arief 1 logged in as user
+[2025-05-11 16:23:33] User 'Arief 1' logged in as user
+[2025-05-11 16:24:03] User Arief 1 membeli 10 Mie Ayam
+[2025-05-11 16:42:29] User Arief 1 logged in as user
+[2025-05-11 16:42:29] User 'Arief 1' logged in as user
+[2025-05-11 16:42:53] User Arief 1 membeli 5 Mie Ayam
+[2025-05-11 16:55:35] User admin logged in as admin
+[2025-05-11 16:55:35] User 'admin' logged in as admin
+[2025-05-11 16:55:51] Admin menambahkan produk teh botol (ID: 6) dengan harga Rp12300 dan stok 20
+[2025-05-11 16:56:13] Admin mengedit produk dari 'Air Mineral' menjadi 'Ayam Mineral' (ID: 1) dengan harga Rp7000 dan stok 25
+[2025-05-11 16:56:24] Admin menghapus produk 'teh botol' (ID: 6)
+[2025-05-11 17:05:32] User admin logged in as admin
+[2025-05-11 17:05:32] User 'admin' logged in as admin
+[2025-05-11 17:06:09] Admin mengekspor laporan transaksi ke exports/transaksi_20250511_170609.csv
+[2025-05-11 17:06:21] Failed login attempt for username: arief 1
+[2025-05-11 17:06:21] Failed login attempt with username 'arief 1'
+[2025-05-11 17:06:27] Failed login attempt for username: Arief
+[2025-05-11 17:06:27] Failed login attempt with username 'Arief'
+[2025-05-11 17:06:31] Failed login attempt for username: Arief
+[2025-05-11 17:06:31] Failed login attempt with username 'Arief'
+[2025-05-11 17:06:37] User Arief 1 logged in as user
+[2025-05-11 17:06:37] User 'Arief 1' logged in as user
+[2025-05-11 17:06:57] User Arief 1 membeli 20 Ayam Mineral
+[2025-05-11 17:07:10] Failed login attempt for username: admin
+[2025-05-11 17:07:10] Failed login attempt with username 'admin'
+[2025-05-11 17:07:15] User admin logged in as admin
+[2025-05-11 17:07:15] User 'admin' logged in as admin
+[2025-05-11 17:14:22] User admin logged in as admin
+[2025-05-11 17:14:22] User 'admin' logged in as admin
+[2025-05-11 17:14:32] Admin mengekspor laporan transaksi ke exports/transaksi_20250511_171432.csv
+[2025-05-11 17:17:48] User superadmin logged in as superadmin
+[2025-05-11 17:17:48] User 'superadmin' logged in as superadmin
+[2025-05-11 17:18:12] Super Admin mengakses laporan transaksi lengkap
+[2025-05-11 17:22:05] User superadmin logged in as superadmin
+[2025-05-11 17:22:05] User 'superadmin' logged in as superadmin
+[2025-05-11 17:22:11] Super Admin mengakses laporan transaksi lengkap
+[2025-05-11 17:22:39] User teknisi logged in as technician
+[2025-05-11 17:22:39] User 'teknisi' logged in as technician
+[2025-05-11 17:22:46] Teknisi memeriksa status sistem
+[2025-05-11 19:55:19] User admin logged in as admin
+[2025-05-11 19:55:19] User 'admin' logged in as admin
+[2025-05-11 19:55:19] Low stock notification created for Ayam Mineral (current: 5)
+[2025-05-11 19:55:19] Low stock notification created for Teh Botol (current: 4)
+[2025-05-11 19:55:19] Low stock notification created for Mie Ayam (current: 5)
+[2025-05-11 19:55:19] Saved 0 pending transactions
+[2025-05-11 19:55:19] Saved 3 notifications
+[2025-05-11 19:55:52] Admin menandai semua notifikasi sebagai dibaca
+[2025-05-11 19:55:52] Saved 0 pending transactions
+[2025-05-11 19:55:52] Saved 3 notifications
+[2025-05-11 19:56:01] Saved 0 pending transactions
+[2025-05-11 19:56:01] Saved 3 notifications
+[2025-05-11 19:56:04] Saved 0 pending transactions
+[2025-05-11 19:56:04] Saved 3 notifications
+[2025-05-11 19:56:04] Low stock notification created for Ayam Mineral (current: 5)
+[2025-05-11 19:56:04] Low stock notification created for Teh Botol (current: 4)
+[2025-05-11 19:56:04] Low stock notification created for Mie Ayam (current: 5)
+[2025-05-11 19:56:04] Saved 0 pending transactions
+[2025-05-11 19:56:04] Saved 6 notifications
+[2025-05-11 19:56:24] User Arief 1 logged in as user
+[2025-05-11 19:56:24] User 'Arief 1' logged in as user
+[2025-05-11 19:56:42] User superadmin logged in as superadmin
+[2025-05-11 19:56:42] User 'superadmin' logged in as superadmin
+[2025-05-11 19:56:58] Super Admin mengakses laporan transaksi lengkap
+[2025-05-11 20:10:27] User Arief 1 logged in as user
+[2025-05-11 20:10:27] User 'Arief 1' logged in as user
+[2025-05-11 20:12:58] User Arief 1 membeli 2 Chitato
+[2025-05-11 20:13:17] User admin logged in as admin
+[2025-05-11 20:13:17] User 'admin' logged in as admin
+[2025-05-11 20:13:17] Loaded 0 pending transactions into queue
+[2025-05-11 20:13:17] Loaded 6 notifications into queue
+[2025-05-11 20:13:29] Admin menandai semua notifikasi sebagai dibaca
+[2025-05-11 20:13:29] Saved 0 pending transactions
+[2025-05-11 20:13:29] Saved 6 notifications
+[2025-05-11 20:13:33] Saved 0 pending transactions
+[2025-05-11 20:13:33] Saved 6 notifications
+[2025-05-11 20:13:33] Low stock notification created for Ayam Mineral (current: 5)
+[2025-05-11 20:13:33] Low stock notification created for Teh Botol (current: 4)
+[2025-05-11 20:13:33] Low stock notification created for Mie Ayam (current: 5)
+[2025-05-11 20:13:33] Saved 0 pending transactions
+[2025-05-11 20:13:33] Saved 9 notifications
+[2025-05-11 20:13:50] Saved 0 pending transactions
+[2025-05-11 20:13:50] Saved 9 notifications
+[2025-05-11 20:13:54] Admin menandai semua notifikasi sebagai dibaca
+[2025-05-11 20:13:54] Saved 0 pending transactions
+[2025-05-11 20:13:54] Saved 9 notifications
+[2025-05-11 20:13:56] Saved 0 pending transactions
+[2025-05-11 20:13:56] Saved 9 notifications
+[2025-05-11 20:13:56] Low stock notification created for Ayam Mineral (current: 5)
+[2025-05-11 20:13:56] Low stock notification created for Teh Botol (current: 4)
+[2025-05-11 20:13:56] Low stock notification created for Mie Ayam (current: 5)
+[2025-05-11 20:13:56] Saved 0 pending transactions
+[2025-05-11 20:13:56] Saved 12 notifications
+[2025-05-11 20:14:14] Admin mengedit produk dari 'Ayam Mineral' menjadi 'Ayam Mineral' (ID: 1) dengan harga Rp7000 dan stok 10
+[2025-05-11 20:14:30] Admin mengedit produk dari 'Teh Botol' menjadi 'Teh Botol' (ID: 2) dengan harga Rp7000 dan stok 8
+[2025-05-11 20:14:41] Admin mengedit produk dari 'Mie Ayam' menjadi 'Mie Ayam' (ID: 5) dengan harga Rp10000 dan stok 12
+[2025-05-11 20:14:50] Admin menandai semua notifikasi sebagai dibaca
+[2025-05-11 20:14:50] Saved 0 pending transactions
+[2025-05-11 20:14:50] Saved 12 notifications
+[2025-05-11 20:14:53] Saved 0 pending transactions
+[2025-05-11 20:14:53] Saved 12 notifications
+[2025-05-11 20:15:04] Failed login attempt for username: 
+[2025-05-11 20:15:04] Failed login attempt with username ''
+[2025-05-11 20:15:13] User teknisi logged in as technician
+[2025-05-11 20:15:13] User 'teknisi' logged in as technician
+[2025-05-11 20:15:23] Teknisi menambah stok Ayam Mineral sebanyak 23 unit (total: 33)
+[2025-05-11 20:15:26] Teknisi memeriksa status sistem
+[2025-05-25 21:45:36] Failed login attempt for username: admin 1
+[2025-05-25 21:45:36] Failed login attempt with username 'admin 1'
+[2025-05-25 21:45:52] Failed login attempt for username: Admin 1
+[2025-05-25 21:45:52] Failed login attempt with username 'Admin 1'
+[2025-05-25 21:46:03] User admin logged in as admin
+[2025-05-25 21:46:03] User 'admin' logged in as admin
+[2025-05-25 21:46:03] Loaded 0 pending transactions into queue
+[2025-05-25 21:46:03] Loaded 12 notifications into queue
+[2025-05-25 21:47:08] Saved 0 pending transactions
+[2025-05-25 21:47:08] Saved 12 notifications
+[2025-05-25 21:47:21] Failed login attempt for username: Teknisi
+[2025-05-25 21:47:21] Failed login attempt with username 'Teknisi'
+[2025-05-25 21:47:29] User teknisi logged in as technician
+[2025-05-25 21:47:29] User 'teknisi' logged in as technician
+[2025-05-31 18:43:41] User admin logged in as admin
+[2025-05-31 18:43:41] User 'admin' logged in as admin
+[2025-05-31 18:43:41] Loaded 0 pending transactions into queue
+[2025-05-31 18:43:41] Loaded 12 notifications into queue
+[2025-05-31 18:48:21] User admin logged in as admin
+[2025-05-31 18:48:21] User 'admin' logged in as admin
+[2025-05-31 18:48:21] Loaded 0 pending transactions into queue
+[2025-05-31 18:48:21] Loaded 12 notifications into queue
+[2025-05-31 18:48:43] Admin menambahkan produk ayam richeese (ID: 6) dengan harga Rp10000 dan stok 12
+[2025-05-31 18:48:55] Admin menghapus produk 'Ayam Mineral' (ID: 1)
+[2025-05-31 18:50:37] User admin logged in as admin
+[2025-05-31 18:50:37] User 'admin' logged in as admin
+[2025-05-31 18:50:37] Loaded 0 pending transactions into queue
+[2025-05-31 18:50:37] Loaded 12 notifications into queue
+[2025-05-31 18:50:43] Pengurutan ulang ID produk setelah penghapusan ID asal 2: Produk 'Chitato' ID diubah dari 3 ke 1; Produk 'Ayam goreng' ID diubah dari 4 ke 2; Produk 'Mie Ayam' ID diubah dari 5 ke 3; Produk 'ayam richeese' ID diubah dari 6 ke 4
+[2025-05-31 18:50:43] Admin menghapus produk 'Teh Botol' (ID asal: 2) dan semua ID produk disusun ulang.
+[2025-05-31 18:51:06] Saved 0 pending transactions
+[2025-05-31 18:51:06] Saved 12 notifications

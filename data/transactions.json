@@ -1,0 +1,77 @@
+[
+    {
+        "product_id": 1,
+        "quantity": 2,
+        "total_price": 10000,
+        "timestamp": "2024-04-15T10:30:00"
+    },
+    {
+        "product_id": 3,
+        "quantity": 1,
+        "total_price": 10000,
+        "timestamp": "2024-04-15T11:00:00"
+    },
+    {
+        "id": "1746894144",
+        "username": "Arief 1",
+        "product_id": 1,
+        "product_name": "Air Mineral",
+        "quantity": 10,
+        "total_price": 50000,
+        "timestamp": "2025-05-10 23:22:24"
+    },
+    {
+        "id": "1746955443",
+        "username": "Arief 1",
+        "product_id": "5",
+        "product_name": "Mie Ayam",
+        "quantity": 10,
+        "total_price": 100000,
+        "payment_amount": 120000,
+        "change_amount": 20000,
+        "timestamp": "2025-05-11 16:24:03"
+    },
+    {
+        "id": "1746956573",
+        "username": "Arief 1",
+        "product_id": "5",
+        "product_name": "Mie Ayam",
+        "quantity": 5,
+        "total_price": 50000,
+        "payment_amount": 70000,
+        "change_amount": 20000,
+        "change_details": {
+            "20000": 1
+        },
+        "timestamp": "2025-05-11 16:42:53"
+    },
+    {
+        "id": "1746958017",
+        "username": "Arief 1",
+        "product_id": "1",
+        "product_name": "Ayam Mineral",
+        "quantity": 20,
+        "total_price": 140000,
+        "payment_amount": 145000,
+        "change_amount": 5000,
+        "change_details": {
+            "5000": 1
+        },
+        "timestamp": "2025-05-11 17:06:57"
+    },
+    {
+        "id": "1746969178",
+        "username": "Arief 1",
+        "product_id": 3,
+        "product_name": "Chitato",
+        "quantity": 2,
+        "total_price": 20000,
+        "payment_amount": 21500,
+        "change_amount": 1500,
+        "change_details": {
+            "1000": 1,
+            "500": 1
+        },
+        "timestamp": "2025-05-11 20:12:58"
+    }
+]

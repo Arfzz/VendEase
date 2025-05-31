@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Chitato",
+        "price": 10000,
+        "stock": 8
+    },
+    {
+        "id": 2,
+        "name": "Ayam goreng",
+        "price": 12000,
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "name": "Mie Ayam",
+        "price": 10000,
+        "stock": 12
+    },
+    {
+        "id": 4,
+        "name": "ayam richeese",
+        "price": 10000,
+        "stock": 12
+    }
+]

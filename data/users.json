@@ -1,0 +1,32 @@
+[
+    {
+        "username": "admin",
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "role": "admin"
+    },
+    {
+        "username": "teknisi",
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "role": "technician"
+    },
+    {
+        "username": "user",
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "role": "user"
+    },
+    {
+        "username": "superadmin",
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "role": "superadmin"
+    },
+    {
+        "username": "Arief 1",
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "role": "user"
+    },
+    {
+        "username": "Arief 2",
+        "password": "b37bcba6c625fdf6b7389f72f8e60430c768be9d5227db8beb3fa1a1e9af2185",
+        "role": "user"
+    }
+]
